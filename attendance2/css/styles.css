@@ -1,0 +1,24 @@
+
+.box{
+	cursor: pointer;
+	margin-right: 30px;
+	margin-top: 15px;
+	padding: 15px;
+}
+
+
+
+.card-body:hover {
+	  background-color: yellow;
+	}
+
+
+.dark-row{
+    background:#AEC5E8;
+    
+}
+.light-row{
+    
+    background:#F1F3F0;
+}
+
